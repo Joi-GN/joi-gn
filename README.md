@@ -11,4 +11,4 @@
 </div>
 
 
-###### Icon made with [Picrew's "Amphy Pop Doll Maker"!](https://picrew.me/share?cd=dnZfrnYU9q)
+###### Profile photo made with [Picrew's "Amphy Pop Doll Maker"!](https://picrew.me/share?cd=dnZfrnYU9q)
