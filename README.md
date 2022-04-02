@@ -6,6 +6,6 @@
 
 <div>
     <a href="https://www.linkedin.com/in/joice-gomes-dn/" target="_blank"></a>
-    <img height="18em" src="https://github-readme-stats.vercel.app/api?username=joi-gn&show_icons=true&count_private=true&theme=jolly">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joi-gn&show_icons=true&count_private=true&theme=jolly">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joi-gn&layout=compact&theme=jolly">
 </div>
