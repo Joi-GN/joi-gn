@@ -14,8 +14,8 @@ You can check my portfolio here: [Portfolio](https://joi-gn.github.io/my-portfol
 <div>
 <h2> GitHub Stats</h2>
 <a href="https://www.linkedin.com/in/joice-gomes-dn/" target="_blank"></a>
-<img height="133em" src="https://github-readme-stats.vercel.app/api?username=joi-gn&show_icons=true&count_private=true&theme=jolly">
-<img height="133em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joi-gn&layout=compact&theme=jolly">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=joi-gn&show_icons=true&count_private=true&theme=jolly">
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joi-gn&layout=compact&theme=jolly">
 </div>
 
 <br>
