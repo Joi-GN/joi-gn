@@ -1,4 +1,4 @@
-<h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Joice Gomes 💗! </h1>
+<h1 align="center"> Hi 👋 I'm Joice Gomes 💗! </h1>
 
 <br>
 
@@ -8,7 +8,7 @@
 📫 How to reach me: <a href="https://www.linkedin.com/in/joice-gomes-dn/" target="_blank">LinkedIn</a>  
 😄 Pronouns: Ela/Dela/She/Her  
 
-You can check my portfolio here: [Portfolio](https://joi-gn.github.io/my-portfolio/)
+<!-- You can check my portfolio here: [Portfolio](https://joi-gn.github.io/my-portfolio/) -->
 
 
 <div>
