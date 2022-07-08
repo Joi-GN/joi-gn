@@ -4,11 +4,11 @@
 
 <div>
 
-🌱 I’m currently learning JavaScript, HTML, CSS, TypeScript  
-📫 How to reach me: <a href="https://www.linkedin.com/in/joice-gomes-dn/" target="_blank">LinkedIn</a>  
+🌱 I’m currently learning HTML, CSS, JavaScript, Java, TypeScript
+📫 How to reach me: <a href="https://www.linkedin.com/in/joice-gomes-dn/" target="_blank">LinkedIn</a>
 😄 Pronouns: Ela/Dela/She/Her  
 
-<!-- You can check my portfolio here: [Portfolio](https://joi-gn.github.io/my-portfolio/) -->
+You can check my portfolio here: [Portfolio](https://joi-gn.github.io/my-portfolio/)
 
 
 <div>
