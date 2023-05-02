@@ -11,6 +11,7 @@ public class Dev {
   private final Set<String> pronouns = Set.of("Ela","Dela","She","Her"));
   private String hobby = "Gaming";
   private Stack stack = Stack.FULLSTACK;
+  private Set<String> languagesAndTools = Set.of("HTML", "CSS", "JavaScript", "TypeScript", "Java", "Angular", "MySQL");
 
 }
 ```
@@ -20,12 +21,12 @@ public class Dev {
     <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=joi-gn&show_icons=true&count_private=true&theme=dracula">
     <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joi-gn&layout=compact&theme=dracula">
 </div>
-<br><br>
+<br>
 
 <div>
   <h1>📚 Languages and Tools</h1>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="	https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
@@ -33,7 +34,7 @@ public class Dev {
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <!-- <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"> -->
 </div>
-<br><br>
+<br>
 
 <div>
   <h1>✉️ How to reach me</h1>
@@ -44,12 +45,12 @@ public class Dev {
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
-<br><br>
+<br>
 
 <div>
   <h1>👩‍💻 Portfolio</h1>
   <p>You can check my portfolio <a href="https://joi-gn.github.io/my-portfolio/">here</a></p>
 </div>
-<br><br>
+<br>
 
 ###### Profile photo made with [Picrew's "Amphy Pop Doll Maker"!](https://picrew.me/share?cd=dnZfrnYU9q)
